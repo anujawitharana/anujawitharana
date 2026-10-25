@@ -36,7 +36,6 @@ Software Engineer & Computer Science Graduate from **Edith Cowan University (ECU
 
 - 🎓 **Education**: Bachelor of Computer Science (Software Engineering), ECU — *Graduated*.
 - ⚡ **Core Focus**: High-performance HTTP REST APIs, modern reactive frontends, and automated workflows.
-- 🚀 **Looking For**: Junior / Associate Software Engineer & Full-Stack / Backend roles.
 
 ---
 
@@ -48,11 +47,21 @@ Software Engineer & Computer Science Graduate from **Edith Cowan University (ECU
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 <div align="center">
 
   ## 🤝 Let's Connect
-
-  <p>Open for <b>Junior / Associate Software Engineer</b>, <b>Full-Stack</b>, and <b>Backend</b> opportunities.</p>
 
   <a href="https://linkedin.com/in/anujawitharana" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />

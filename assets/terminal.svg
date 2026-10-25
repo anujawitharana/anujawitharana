@@ -125,7 +125,7 @@
 
     <!-- Line 8 -->
     <text y="186" x="20">
-      <tspan class="keyword">def</tspan> <tspan class="func">is_open_to_work</tspan>(<tspan class="variable">self</tspan>):
+      <tspan class="keyword">def</tspan> <tspan class="func">connect</tspan>(<tspan class="variable">self</tspan>):
     </text>
 
     <!-- Line 9 -->
@@ -135,7 +135,7 @@
 
     <!-- Line 10 Comment -->
     <text y="246" x="20">
-      <tspan class="comment"># Ready for Junior / Associate Software Engineer &amp; Full-Stack Roles</tspan>
+      <tspan class="comment"># Crafting scalable systems, clean APIs &amp; modern web applications</tspan>
     </text>
   </g>
 </svg>
