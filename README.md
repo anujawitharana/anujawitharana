@@ -30,6 +30,18 @@
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ## 🌟 About Me
 
 Software Engineer & Computer Science Graduate from **Edith Cowan University (ECU)**. Specializing in high-performance backends, modern full-stack web applications with **Next.js & FastAPI**, relational databases, and scalable distributed architectures.
@@ -42,20 +54,8 @@ Software Engineer & Computer Science Graduate from **Edith Cowan University (ECU
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,nodejs,php,kotlin,mysql,postgres,mongodb,firebase,docker,git,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,nextjs,ts,js,fastapi,flutter,mysql,postgres,docker,git,html,css" alt="Tech Stack" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/anujawitharana/anujawitharana/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</div>
 
 ---
 
